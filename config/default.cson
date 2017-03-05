@@ -1,0 +1,12 @@
+## default cson config
+"collections" : [
+  {
+    "COLLECTION_ID" : 0
+    "COLLECTION_NAME" : "faq"
+    "INPUT_FILE_PATH" : "./data/sample.tsv"
+    "OUTPUT_FILE_PATH" : "./json/sample.json"
+    "HEADER_LINE" : true
+    "COMMENT_LINE" : "###"
+    "DELIMITER_STRING" : "\t"
+  }
+]

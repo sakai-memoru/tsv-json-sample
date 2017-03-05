@@ -1,0 +1,17 @@
+## columns definition
+"collections" :[
+  [
+    'no'
+    'public'
+    'serviceName'
+    'category'
+    'createdBy'
+    'workflowStatus'
+    'createDate'
+    'updateDate'
+    'title'
+    'context'
+    'language'
+    'countOfView'
+  ]
+]
